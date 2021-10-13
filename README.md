@@ -1,8 +1,8 @@
-# Readme Generator
+# README Generator
 
 ## Description
 
-This project generrates a readme file for a project via NodeJS
+This project will generate a quality README based on user input through the command line.
 
 ![badge](https://img.shields.io/badge/license-MIT-green)
 
@@ -18,16 +18,17 @@ This project generrates a readme file for a project via NodeJS
     
   _Follow these steps to install this application:_
 
-  Download repository, install inquirer.
+  Clone the repository, install NPM dependencies via npm install
       
 ## Usage
 
   _Instructions for use:_
 
-  Run node index.js
-  ![Media of application](#)
+  Initialize index.js vis NodeJS and follow the command line prompts.
+  
+  [Media of application](https://drive.google.com/file/d/1w5fCUDoDrKEP4csDNmh5UbKAVlPM0Vut/view)
         
-  [Link to deployed project](#)  
+  [Link to deployed project](https://github.com/Alextheshire/readme-generator)  
 ## Questions
       
   If you have any questions, please reach out via Github or my email.
